@@ -224,12 +224,12 @@ font-weight: 700;
    font-weight: 700;
  }
 
- .footer-logo h span {
+ .footer-logo span {
    color: #FF42A5;
    font-size: 50px;
  }
 
- .footer-logo h {
+ .footer-logo{
    color: #FFF;
  }
 
